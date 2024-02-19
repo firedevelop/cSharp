@@ -1,7 +1,7 @@
 using System;
 public class Variables
 {
-    public static void PrintVariables()
+    public static void Print()
     {
         Console.WriteLine(5 * 2);       // 35
             Console.WriteLine(5.0 / 2.0);   // 2.5

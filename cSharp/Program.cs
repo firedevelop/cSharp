@@ -3,10 +3,12 @@ class Program
 {
     static void Main()
     {
-        Variables.PrintVariables();     //001
+
+        Casting.Print();
         /*
         Test.test();
-        CarsModel.PrintCars();          //006
+        Variables.Print();     //001
+        CarsModel.Print();              //006
         DaysWeek.PrintDays();           //007
         Arrays.PrintArray();            //008
         ArrayMulti.PrintArrayMulti();   //009

@@ -9,7 +9,7 @@ public class CarsModel
         kia
     }
 
-    public static void PrintCars()
+    public static void Print()
     {
         foreach (Cars cars in Enum.GetValues(typeof(Cars)))
         {
