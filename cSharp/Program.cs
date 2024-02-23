@@ -3,11 +3,13 @@ class Program
 {
     static void Main()
     {
-                Conversion_Explicita_Implicita_int_double.Print();
-        
+        Conversion_Parse_String_Int.Print();
+        //test.Print();
+        //Conversion_Explicita_Implicita_float_double.Print(); 
+        //Conversion_Explicita_Implicita_int_double.Print();
+
         //Casting.Print();
         /*
-        Test.test();
         Variables.Print();     //001
         CarsModel.Print();              //006
         DaysWeek.PrintDays();           //007

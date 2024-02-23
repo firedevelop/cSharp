@@ -3,15 +3,13 @@ public class Conversion_Explicita_Implicita_float_double
 {
     public static void Print()
     {
-        float c = 3.14F;
-        Console.WriteLine(c);
-        double d = c;
-        Console.WriteLine(d);
-       
-        
-        double b = 123.456;
-        float a = (float)b;
-        Console.WriteLine(a);
+        float a = 3.14F;
+        double b = a;
         Console.WriteLine(b);
+        Console.WriteLine($"{b:F7}");
+
+        double c = 3.123456789;
+        float d = (float)c;
+        Console.WriteLine(d);
     }
 }

@@ -1,12 +1,13 @@
 ﻿using System;
-class Test
+public class test
 {
-    public static void test()
+    public static void Print()
     {
-        string myString = "   Hello World!   ";
-        
-        string myTrin = myString.Trim();
-        Console.WriteLine(myTrin);
+        int a = 1;
+        string b = "2";
+        string c = "3";
+        Console.WriteLine(a + b + c);
+        Console.WriteLine(a + int.Parse(b) + int.Parse(c));
 
     }
 }
