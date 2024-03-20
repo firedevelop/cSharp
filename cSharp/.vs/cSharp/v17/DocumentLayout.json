@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\002_02_conversion_parse_string_int.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:002_02_conversion_parse_string_int.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\000_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:000_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\002_02_conversion_parse_string_int.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:002_02_conversion_parse_string_int.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,12 +35,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "000_test.cs",
+              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\000_test.cs",
+              "RelativeDocumentMoniker": "000_test.cs",
+              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\000_test.cs",
+              "RelativeToolTip": "000_test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:17:24.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "002_02_Conversion_Parse_String_Int.cs",
               "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\002_02_Conversion_Parse_String_Int.cs",
               "RelativeDocumentMoniker": "002_02_Conversion_Parse_String_Int.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\002_02_Conversion_Parse_String_Int.cs*",
-              "RelativeToolTip": "002_02_Conversion_Parse_String_Int.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\002_02_Conversion_Parse_String_Int.cs",
+              "RelativeToolTip": "002_02_Conversion_Parse_String_Int.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-23T10:57:00.259Z",
               "EditorCaption": ""
@@ -49,9 +66,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T08:59:14.61Z"
+              "WhenOpened": "2024-02-19T08:59:14.61Z",
+              "EditorCaption": ""
             }
           ]
         }
