@@ -1,9 +1,12 @@
 ﻿using System;
 using System.Numerics;
-public class VT4
+
+namespace cSharp
 {
-    public static void Print()
+    public class VT4
     {
+        public static void Print()
+        {
 
             /*
              * 
@@ -144,4 +147,3 @@ public class VT4
     }
 
 }
-

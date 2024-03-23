@@ -1,13 +1,16 @@
 ﻿using System;
-public class test
+namespace cSharp
 {
-    public static void Print()
+    public class Test
     {
-        int a = 1;
-        string b = "2";
-        string c = "2";
-        Console.WriteLine(a + b + c);
-        Console.WriteLine(a + int.Parse(b) + int.Parse(c));
+        public static void Print()
+        {
+            int a = 1;
+            string b = "1";
+            string c = "1";
+            Console.WriteLine(a + b + c);
+            Console.WriteLine(a + int.Parse(b) + int.Parse(c));
 
+        }
     }
 }
