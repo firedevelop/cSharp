@@ -1,4 +1,3 @@
-using System;
 namespace cSharp
 {
     public class c012_random_array
@@ -17,7 +16,7 @@ namespace cSharp
             }
             Console.WriteLine("La media es {0}", suma / array.Length);
             Console.ReadKey();
- 
+
         }
     }
 }

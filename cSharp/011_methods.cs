@@ -1,5 +1,3 @@
-using System;
-
 class myMethod
 {
     public static void PrintmyMethod()
@@ -26,7 +24,7 @@ class myMethod
         // CompareTo: 1 (result of string comparison)
         string otherString = "hello";
         int compareToResult = myString.CompareTo(otherString);
-        Console.WriteLine($"CompareTo: {compareToResult}"); 
+        Console.WriteLine($"CompareTo: {compareToResult}");
 
         // Contains: True
         bool containsResult = myString.Contains("World");

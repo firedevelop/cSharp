@@ -1,5 +1,4 @@
-﻿using System;
-namespace cSharp
+﻿namespace cSharp
 {
     public class Test
     {

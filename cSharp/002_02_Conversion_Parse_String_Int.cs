@@ -1,5 +1,4 @@
-﻿using System;
-public class Conversion_Parse_String_Int
+﻿public class Conversion_Parse_String_Int
 {
     public static void Print()
     {

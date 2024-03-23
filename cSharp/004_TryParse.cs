@@ -1,10 +1,9 @@
-﻿using System;
-namespace Csharp
+﻿namespace Csharp
 {
-	public class _04_TryParse
-	{
-		public _04_TryParse()
-		{
+    public class _04_TryParse
+    {
+        public _04_TryParse()
+        {
             int numValido = Int32.Parse("-100");
             Console.WriteLine(numValido);
             // La salida por pantalla será -100

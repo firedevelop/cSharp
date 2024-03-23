@@ -1,5 +1,4 @@
-﻿using System;
-class cs003
+﻿class cs003
 {
     public static void Main3(string[] args)
     {

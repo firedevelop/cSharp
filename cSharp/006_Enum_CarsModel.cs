@@ -1,5 +1,3 @@
-using System;
-
 public class CarsModel
 {
     public enum Cars
@@ -13,7 +11,7 @@ public class CarsModel
     {
         foreach (Cars cars in Enum.GetValues(typeof(Cars)))
         {
-            Console.WriteLine(cars );
+            Console.WriteLine(cars);
         }
         Cars car = Cars.seat;
         Console.WriteLine($"my car: {car}\n");

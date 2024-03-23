@@ -1,6 +1,4 @@
-﻿using System;
-using System.Diagnostics.CodeAnalysis;
-namespace cSharp
+﻿namespace cSharp
 {
     public class VT4_UF1_PAC6_Conditions_Statements
     {
@@ -9,7 +7,7 @@ namespace cSharp
             /**********************/
             for (int i = 1; i <= 10; i++)
             { Console.WriteLine("{0}", i); } // 1 2 3 4 5 6 7 8 9 10}
-            
+
 
             /**********************/
             for (int j = 10; j >= 1; j--)
@@ -48,7 +46,7 @@ namespace cSharp
             while (num1 != 0);
             media = sum / cont;
             Console.WriteLine("tus nota media es {0}", media);
-            Console.ReadKey ();
+            Console.ReadKey();
         }
     }
 }

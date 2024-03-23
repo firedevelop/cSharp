@@ -1,7 +1,4 @@
-﻿using System;
-using System.Numerics;
-
-namespace cSharp
+﻿namespace cSharp
 {
     public class VT4
     {

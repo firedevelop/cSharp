@@ -1,8 +1,4 @@
-﻿using System;
-using System.Diagnostics.Contracts;
-using System.Numerics;
-using System.Runtime.InteropServices;
-namespace cSharp
+﻿namespace cSharp
 {
     public class VT4_UF1_PAC5_Arrays
     {
@@ -28,7 +24,7 @@ namespace cSharp
                 Console.Write(i); // 1234
             }
             foreach (Day day in Enum.GetValues(typeof(Day)))
-            {Console.WriteLine(day); } //Sat Sun Mon Tue Wed Thu Fri
+            { Console.WriteLine(day); } //Sat Sun Mon Tue Wed Thu Fri
 
 
             int[] numeros = new int[10];
@@ -36,5 +32,5 @@ namespace cSharp
             { Console.WriteLine(numero); } // Print ten zeros
 
         }
-    }     
+    }
 }

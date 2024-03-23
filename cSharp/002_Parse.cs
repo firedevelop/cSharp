@@ -1,6 +1,4 @@
-﻿using System.IO;
-using System;
-class cs002
+﻿class cs002
 {
     static void Main2()
     {

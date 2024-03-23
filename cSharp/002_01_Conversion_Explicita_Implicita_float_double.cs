@@ -1,4 +1,3 @@
-using System;
 public class Conversion_Explicita_Implicita_float_double
 {
     public static void Print()
