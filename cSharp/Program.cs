@@ -17,9 +17,9 @@
             // c018_nested_loop.Print();
 
             // VT5
-             c019_enum_foreach_arraybool.Print();
+             // c019_enum_foreach_arraybool.Print();
             // c020_static.Print();
-            // c021_for_while_doWhile.Print();
+             c021_for_while_doWhile.Print();
 
 
 
