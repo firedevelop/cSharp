@@ -1,11 +1,12 @@
+using System;
+
 namespace cSharp
 {
     public class c019_enum_foreach_arraybool
     {
+        public enum poblaciones { Aldea = 1000, Municipio = 10000, Ciudad = 100000 };
+
         public static void Print()
-        {
-        enum poblaciones { Aldea = 1000, Municipio = 10000, Ciudad = 100000 };
-        static void Main()
         {
             //------------------------------------------------ Tipo Enum
             int ciudadanos = 1200;
