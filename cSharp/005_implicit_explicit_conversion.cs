@@ -1,11 +1,10 @@
-﻿using System;
-namespace Csharp
+﻿namespace Csharp
 {
-	public class _05_implicit_explicit_conversion
-	{
-		public _05_implicit_explicit_conversion()
-		{
-		}
-	}
+    public class _05_implicit_explicit_conversion
+    {
+        public _05_implicit_explicit_conversion()
+        {
+        }
+    }
 }
 

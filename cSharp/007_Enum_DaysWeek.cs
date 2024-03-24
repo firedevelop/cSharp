@@ -1,4 +1,3 @@
-using System;
 class DaysWeek
 {
     public enum Days

@@ -1,4 +1,3 @@
-using System;
 public class Casting
 {
     public static void Print()

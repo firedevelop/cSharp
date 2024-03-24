@@ -1,4 +1,3 @@
-using System;
 class Arrays
 {
     public static void PrintArray()

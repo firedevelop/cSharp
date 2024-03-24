@@ -1,4 +1,3 @@
-using System;
 class ArrayMulti
 {
     public static void PrintArrayMulti()
