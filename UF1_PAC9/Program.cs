@@ -91,8 +91,8 @@ namespace PAC_Desarrollo_Entrega_2S2324
             int contador;
 
 
-// ESPACIO DONDE EL ALUMNO DEBE IMPLEMENTAR LA SOLUCIÓN
-            arrLetras = frase.ToCharArray();
+            // ESPACIO DONDE EL ALUMNO DEBE IMPLEMENTAR LA SOLUCIÓN
+            arrLetras = InvertirFrase(frase).ToCharArray();
             for(int i = 0; i < frase.Length; i++)
             {
                 Console.WriteLine(arrLetras[i]);

@@ -11,11 +11,11 @@ namespace cSharp
             for (int i = 0; i < 9; i++) // [2]
             {
                 Console.WriteLine("Quedan {0} intentos.", 9 - i); // [3]
-                Console.WriteLine("Introduce un número:");
+                Console.WriteLine("Introduce un nï¿½mero:");
                 numero = int.Parse(Console.ReadLine());
                 if (adivinar == numero)
                 {
-                    Console.WriteLine("¡Lo adivinaste!");
+                    Console.WriteLine("ï¿½Lo adivinaste!");
                     break;
                 }
             }
@@ -28,4 +28,3 @@ namespace cSharp
 // [1] Rango [0, 8]. The nine is not included.
 // [2] Hasta 10 intentos
 // [3] better use the number "9 - i" if not you allow 10 times to the user instead of 9.
-
