@@ -81,8 +81,6 @@ namespace PAC_Desarrollo_Entrega_2S2324
             return resultado;
         }
 
-
-
         public static string CaracterMasRepetido(string frase)
         {
             char[] arrLetras = new char[frase.Length];
@@ -92,29 +90,36 @@ namespace PAC_Desarrollo_Entrega_2S2324
 
 
             // ESPACIO DONDE EL ALUMNO DEBE IMPLEMENTAR LA SOLUCIÓN
-            arrLetras = InvertirFrase(frase).ToCharArray();
-            for(int i = 0; i < frase.Length; i++)
+           char[] fraseInvertida = InvertirFrase(frase).ToCharArray();
+            contador = 1;
+            posicion = 0;
+
+            for (int i = 0; i < fraseInvertida.Length; i++)
             {
-                Console.WriteLine(arrLetras[i]);
-                for (int j = i+1; j < arrLetras.Length; j++) { 
-                if (arrLetras[i] == arrLetras[j]) { 
-                    Console.WriteLine("duplicated ");
-                    arrContadorLetras[i] = 1;
-                }
+                for (int j = i + 1; j < fraseInvertida.Length; j++)
+                {
+                    if (fraseInvertida[i] == fraseInvertida[j])
+                    {
+                        Console.WriteLine("duplicate");
+                        arrLetras[i] = fraseInvertida[i];
+                        arrContadorLetras[i] = ++contador;
+                        
+                    }
                 }
             }
-            return frase;
-   
-// FIN ES
+            foreach (char c in arrLetras) { Console.WriteLine("arrLetras {0}", c); }
+                foreach (char d in arrContadorLetras) { Console.WriteLine("arrContadorLetras {0}", d); }
 
-            //if (contador > 1)
-            //{
-            //    return "El valor '" + arrLetras[posicion - 1] + "' se repite " + arrContadorLetras[posicion - 1] + " veces y la primera vez que aparece en la frase es en la posición " + posicion + ".";
-            //}
-            //else
-            //{
-            //    return "Todos los caracteres de la frase aparecen por igual.";
-            //}
+            // FIN ES
+            Console.WriteLine("contador = {0}",contador);
+            if (contador > 1)
+            {
+                return "El valor '" + arrLetras[posicion - 1] + "' se repite " + arrContadorLetras[posicion - 1] + " veces y la primera vez que aparece en la frase es en la posición " + posicion + ".";
+            }
+            else
+            {
+                return "Todos los caracteres de la frase aparecen por igual.";
+            }
         }
     }
 }
