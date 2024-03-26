@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{87930489-204E-42A6-8EE8-DEB978DD56C3}|UF1_PAC9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87930489-204E-42A6-8EE8-DEB978DD56C3}|UF1_PAC9.csproj|c:\\users\\it77\\documents\\github\\csharp\\uf1_pac9\\program - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87930489-204E-42A6-8EE8-DEB978DD56C3}|UF1_PAC9.csproj|solutionrelative:program - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87930489-204E-42A6-8EE8-DEB978DD56C3}|UF1_PAC9.csproj|c:\\users\\it77\\documents\\github\\csharp\\uf1_pac9\\plantilla (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{87930489-204E-42A6-8EE8-DEB978DD56C3}|UF1_PAC9.csproj|solutionrelative:plantilla (1).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87930489-204E-42A6-8EE8-DEB978DD56C3}|UF1_PAC9.csproj|c:\\users\\it77\\documents\\github\\csharp\\uf1_pac9\\program - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87930489-204E-42A6-8EE8-DEB978DD56C3}|UF1_PAC9.csproj|solutionrelative:program - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:391215574:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program - Copy.cs",
               "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\UF1_PAC9\\Program - Copy.cs",
               "RelativeDocumentMoniker": "Program - Copy.cs",
@@ -39,13 +47,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Plantilla (1).txt",
               "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\UF1_PAC9\\Plantilla (1).txt",
               "RelativeDocumentMoniker": "Plantilla (1).txt",
               "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\UF1_PAC9\\Plantilla (1).txt",
               "RelativeToolTip": "Plantilla (1).txt",
-              "ViewState": "AQIAACcAAAAAAAAAAAAswF0AAAABAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAswFEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-03-25T08:22:20.385Z",
               "EditorCaption": ""
@@ -58,7 +66,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\UF1_PAC9\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAAAGgAAAA6AAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAA6wDMAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-24T17:35:48.591Z",
               "EditorCaption": ""
