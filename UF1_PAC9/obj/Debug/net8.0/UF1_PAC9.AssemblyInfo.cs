@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UF1_PAC9")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bee9bc6c10d9362bd273c3ff52869bcbb47025ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1c652b43dfd9173b5db1ea2f9c744cbd9f8bfa4")]
 [assembly: System.Reflection.AssemblyProductAttribute("UF1_PAC9")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UF1_PAC9")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -158,6 +158,24 @@ namespace PAC_Desarrollo_Entrega_2S2324
                 }
             }
 
+            // Verificar si todos los caracteres son igual       
+            bool caracteresIguales = true;
+            for (int i = 1; i < frase.Length; i++)
+            {
+                // tomamos el primer caracter frase[0] como muestra y los lo vamos comparando uno a uno
+                if (frase[i] != frase[0])
+                {
+                    caracteresIguales = false;
+                    break;
+                }
+            }
+
+            if (caracteresIguales)
+            {
+                // le asignamos 1, para que NO sea mayor que 1 y nos de el mensaje de abajo "Todos los ... por igual"
+                contador = 1;
+            }
+
             // FIN - SOLUCION ALUMNO
 
             if (contador > 1)
