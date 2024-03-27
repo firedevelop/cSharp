@@ -67,7 +67,7 @@ namespace PAC_Desarrollo_Entrega_2S2324
                 {
                     numeros++;
                 }
-                // minuscular y el resto de caracteres
+                // minusculas y el resto de caracteres
                 else
                 {
                     minusculas++;
@@ -82,8 +82,8 @@ namespace PAC_Desarrollo_Entrega_2S2324
         {
             //	INICIO - SOLUCION ALUMNO
 
-            // solucion usando Reverse:
-            /* char[] fraseToChar = frase.ToCharArray();
+            /* solucion usando Reverse:
+            char[] fraseToChar = frase.ToCharArray();
             Array.Reverse(fraseToChar);
             string resultado = new string(fraseToChar);
             return resultado;
@@ -94,7 +94,7 @@ namespace PAC_Desarrollo_Entrega_2S2324
             // Inicialización
             char[] fraseInvertida = new char[fraseToChar.Length];
 
-            // "fraseToChar.Length -1" es la última posición del array. Al ponernos al final e ir restando 1 en cada iteración es lo mismo, que ir recorriendolo en sentido inverso.
+            // "fraseToChar.Length -1" significa la última posición del array. Al ponernos al final e ir restando 1 en cada iteración es lo mismo, que ir recorriendolo en sentido inverso.
             for (int i = 0; i < fraseToChar.Length; i++)
             {
                 fraseInvertida[i] = fraseToChar[fraseToChar.Length - 1 - i];
@@ -134,23 +134,23 @@ namespace PAC_Desarrollo_Entrega_2S2324
                     // [posicion] es el numero de indice que nos da IndexOf al encontrar el elemento. Aqui se añadira 1 si esta vacio o bien se incrementara en caso de ya existir.
                     arrContadorLetras[posicion]++;
                 }
-                // Elemento NO encontrado:
+                // Elemento NO encontrado. Lo añadimos al array y marcamos que ha aparecido 1 vez.
                 else
                 {
-                    // añadir el caracter analizado
+                    // añadir el nuevo caracter
                     arrLetras[i] = frase[i];
-                    // poner que lo ha encontrado 1 vez
+                    // poner que lo ha encontrado 1 vez para que si lo vuelve a encontrar se pueda ir incrementando
                     arrContadorLetras[i] = 1;
                 }
             }
 
-            
+
             for (int i = 0; i < arrContadorLetras.Length; i++)
             {
-                // encontramos el indice con el numero mas alto. 
+                // encontramos el indice con el numero mas alto. Puesto que hemos declarado contador=0 y en el array siempre se guardan minimo el numero 1 usamos esta condicion.
                 if (arrContadorLetras[i] > contador)
                 {
-                    // Al ir declarando el numero encontrado a contador terminaremos por encontrar el indice con el numero mayor.
+                    // Al ir declarando el numero encontrado a contador terminaremos por encontrar el indice con el numero mayor comparándolo con él mismo en cada iteración.
                     contador = arrContadorLetras[i];
                     // indice donde encontramos el numero mayor.
                     // NO deberíamos sumarle 1. Pero debido a que el return del final de esta función figura como "[posicion - 1]" y tenemos prohibido modificarlo debemos falsear el resultado. Lo correcto sería poner "posicion = i;" y en el return arrLetras[posicion]
