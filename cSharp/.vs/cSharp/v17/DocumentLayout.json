@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:000_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\vt08_in_out_params_pasoporreferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:vt08_in_out_params_pasoporreferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\vt04_uf1_pac7_estructuras_repeticion_y_salto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:vt04_uf1_pac7_estructuras_repeticion_y_salto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,21 +30,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 81,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T07:57:31.667Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -52,20 +55,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "VT08_in_out_params_PasoPorReferencia.cs",
+              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT08_in_out_params_PasoPorReferencia.cs",
+              "RelativeDocumentMoniker": "VT08_in_out_params_PasoPorReferencia.cs",
+              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT08_in_out_params_PasoPorReferencia.cs",
+              "RelativeToolTip": "VT08_in_out_params_PasoPorReferencia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:40:52.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "VT08_libraries.cs",
               "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT08_libraries.cs",
               "RelativeDocumentMoniker": "VT08_libraries.cs",
               "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT08_libraries.cs",
               "RelativeToolTip": "VT08_libraries.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAqwAcAAAAnAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAIA/wDEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T07:01:54.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "VT04_UF1_PAC7_Estructuras_repeticion_y_salto2.cs",
               "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT04_UF1_PAC7_Estructuras_repeticion_y_salto2.cs",
               "RelativeDocumentMoniker": "VT04_UF1_PAC7_Estructuras_repeticion_y_salto2.cs",
@@ -84,7 +100,7 @@
               "RelativeDocumentMoniker": "000_test.cs",
               "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\000_test.cs*",
               "RelativeToolTip": "000_test.cs*",
-              "ViewState": "AQIAABsAAAAAAAAAAAA+wEMAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T06:26:03.808Z",
               "EditorCaption": ""

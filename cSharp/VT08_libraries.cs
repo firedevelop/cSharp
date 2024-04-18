@@ -5,8 +5,12 @@ namespace cSharp
     {
             public static void Print()
             {
+            // Truncate() elimina parte decimal
+            double numTruncate = 32.5487;
+            Console.WriteLine(Math.Truncate(numTruncate)); // 32
+
             // Abs(): Calcula el valor absoluto de un número.
-            int absoluteValue = Math.Abs(-10);
+            int absoluteValue = Math.Abs(-10); // 10
             Console.WriteLine($"El valor absoluto es {absoluteValue}");
 
             // Pow(): Calcula la potencia de un número.
@@ -43,9 +47,25 @@ namespace cSharp
             Console.WriteLine($"¿El carácter '{character}' es un dígito? {isDigit}");
 
             // Next(): Genera un número entero aleatorio dentro de un rango especificado.
-            Random random = new Random();
-            int randomNumber = random.Next(1, 101); // Número aleatorio entre 1 y 100
-            Console.WriteLine($"Número aleatorio: {randomNumber}");
+            Random rnd = new Random();
+            Console.WriteLine("\n20 random integers from - 100 to 100:");
+            for (int ctr = 1; ctr <= 20; ctr++)
+            {
+                Console.Write("{0,6}", rnd.Next(-100, 101));
+                if (ctr % 5 == 0) Console.WriteLine(); // Multiplos de 5, se usa para que haga salto de linea
+            }
+            Console.WriteLine("\n20 random integers from 1000 to 10000:");
+            for (int ctr = 1; ctr <= 20; ctr++)
+            {
+                Console.Write("{0,8}", rnd.Next(1000, 10001));
+                if (ctr % 5 == 0) Console.WriteLine();
+            }
+            Console.WriteLine("\n20 random integers from 1 to 10:");
+            for (int ctr = 1; ctr <= 20; ctr++)
+            {
+                Console.Write("{0,6}", rnd.Next(1, 11));
+                if (ctr % 5 == 0) Console.WriteLine();
+            }
         }
 
     }

@@ -21,20 +21,17 @@
             // c019_enum_foreach_arraybool.Print();
             // c020_static.Print();
             // c021_for_while_doWhile.Print();
-            //VT7_Internal_Class.Print();
+            // VT7_Internal_Class.Print();
 
+            // VT4_UF1_PAC7_Estructuras_repeticion_y_salto2.Print();
+            // VT4_UF1_PAC6_Conditions_Statements.Print(); 
+            // VT4_UF1_PAC5_Arrays.Print();
+            // Conversion_Parse_String_Int.Print();
 
+            // Conversion_Explicita_Implicita_float_double.Print(); 
+            // Conversion_Explicita_Implicita_int_double.Print();
 
-
-            //VT4_UF1_PAC7_Estructuras_repeticion_y_salto2.Print();
-            //VT4_UF1_PAC6_Conditions_Statements.Print(); 
-            //VT4_UF1_PAC5_Arrays.Print();
-            //Conversion_Parse_String_Int.Print();
-
-            ////Conversion_Explicita_Implicita_float_double.Print(); 
-            //Conversion_Explicita_Implicita_int_double.Print();
-
-            //Casting.Print();
+            // Casting.Print();
             /*
             Variables.Print();              //001
             CarsModel.Print();              //006

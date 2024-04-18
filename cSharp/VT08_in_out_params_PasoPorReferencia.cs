@@ -1,21 +1,22 @@
 ﻿using System;
 namespace cSharp
 {
-    public class Test
+    internal class VT08_in_out_params_PasoPorReferencia
     {
+
         public static void Print()
         {
             int minVal = 10;
-            int maxVal;
+            int maxVal; 
 
-            AnalyzeNumbers(in minVal, out maxVal, 20, 35, 8);
+            AnalyzeNumbers(in minVal, out maxVal, 20, 35, 8); 
 
-            Console.WriteLine("Minimum value: " + minVal);
-            Console.WriteLine("Maximum value: " + maxVal);
+            Console.WriteLine("Minimum value: " + minVal); 
+            Console.WriteLine("Maximum value: " + maxVal); 
         }
         public static void AnalyzeNumbers(in int minValue, out int maxValue, params int[] numbers)
         {
-            maxValue = minValue;
+            maxValue = minValue; 
 
             foreach (int number in numbers)
             {
@@ -25,5 +26,6 @@ namespace cSharp
                 }
             }
         }
+
     }
 }
