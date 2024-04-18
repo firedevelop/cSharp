@@ -4,14 +4,6 @@
     {
         public static void Print()
         {
-
-            /*
-             * 
-             * Inicio de la ejecución del programa
-             * 
-             */
-
-
             //----- Ejemplo 1: ¿Cómo te llamas?
             //string respuesta = "";
 
@@ -76,11 +68,9 @@
             //    case ("resta"):
             //        Console.WriteLine("Resta: " + (a - b));
             //        break;
-            //    case ("multiplicacion"):
             //    case ("multiplicación"):
             //        Console.WriteLine("Multiplicación: " + (a * b));
             //        break;
-            //    case ("division"):
             //    case ("división"):
             //        Console.WriteLine("División: " + (a / b));
             //        break;

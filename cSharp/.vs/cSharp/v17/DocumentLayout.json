@@ -3,68 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\c019_enum_foreach_arraybool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:c019_enum_foreach_arraybool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\c018_nested_loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:c018_nested_loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\c017_string_methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:c017_string_methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\c014_random_array_parse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:c014_random_array_parse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\c013_two_dimensional_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:c013_two_dimensional_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\c012_random_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:c012_random_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\c010_for_odd_pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:c010_for_odd_pair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\c015_break_vs_continue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:c015_break_vs_continue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\vt4_uf1_pac7_estructuras_repeticion_y_salto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:vt4_uf1_pac7_estructuras_repeticion_y_salto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\vt4_uf1_pac6_conditions_statements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:vt4_uf1_pac6_conditions_statements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\vt4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:vt4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\vt4_uf1_pac5_arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:vt4_uf1_pac5_arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\000_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:000_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\c021_for_while_dowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:c021_for_while_dowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\vt08_in_out_params_pasoporreferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:vt08_in_out_params_pasoporreferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\c020_static.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:c020_static.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\vt04_uf1_pac7_estructuras_repeticion_y_salto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:vt04_uf1_pac7_estructuras_repeticion_y_salto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\vt08_libraries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:vt08_libraries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -73,22 +29,21 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 81,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-19T08:59:14.61Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T07:57:31.667Z",
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -100,197 +55,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VT08_in_out_params_PasoPorReferencia.cs",
+              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT08_in_out_params_PasoPorReferencia.cs",
+              "RelativeDocumentMoniker": "VT08_in_out_params_PasoPorReferencia.cs",
+              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT08_in_out_params_PasoPorReferencia.cs",
+              "RelativeToolTip": "VT08_in_out_params_PasoPorReferencia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:40:52.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "c017_string_methods.cs",
-              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c017_string_methods.cs",
-              "RelativeDocumentMoniker": "c017_string_methods.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c017_string_methods.cs",
-              "RelativeToolTip": "c017_string_methods.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "VT08_libraries.cs",
+              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT08_libraries.cs",
+              "RelativeDocumentMoniker": "VT08_libraries.cs",
+              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT08_libraries.cs",
+              "RelativeToolTip": "VT08_libraries.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAIA/wDEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T10:58:55.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "c013_two_dimensional_array.cs",
-              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c013_two_dimensional_array.cs",
-              "RelativeDocumentMoniker": "c013_two_dimensional_array.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c013_two_dimensional_array.cs",
-              "RelativeToolTip": "c013_two_dimensional_array.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T10:58:46.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "c014_random_array_parse.cs",
-              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c014_random_array_parse.cs",
-              "RelativeDocumentMoniker": "c014_random_array_parse.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c014_random_array_parse.cs",
-              "RelativeToolTip": "c014_random_array_parse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T10:57:58.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "VT4_UF1_PAC6_Conditions_Statements.cs",
-              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT4_UF1_PAC6_Conditions_Statements.cs",
-              "RelativeDocumentMoniker": "VT4_UF1_PAC6_Conditions_Statements.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT4_UF1_PAC6_Conditions_Statements.cs",
-              "RelativeToolTip": "VT4_UF1_PAC6_Conditions_Statements.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T10:57:25.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "VT4_UF1_PAC7_Estructuras_repeticion_y_salto2.cs",
-              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT4_UF1_PAC7_Estructuras_repeticion_y_salto2.cs",
-              "RelativeDocumentMoniker": "VT4_UF1_PAC7_Estructuras_repeticion_y_salto2.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT4_UF1_PAC7_Estructuras_repeticion_y_salto2.cs",
-              "RelativeToolTip": "VT4_UF1_PAC7_Estructuras_repeticion_y_salto2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T10:57:12.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "c010_for_odd_pair.cs",
-              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c010_for_odd_pair.cs",
-              "RelativeDocumentMoniker": "c010_for_odd_pair.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c010_for_odd_pair.cs",
-              "RelativeToolTip": "c010_for_odd_pair.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T09:35:39.734Z",
+              "WhenOpened": "2024-04-17T07:01:54.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "c018_nested_loop.cs",
-              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c018_nested_loop.cs",
-              "RelativeDocumentMoniker": "c018_nested_loop.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c018_nested_loop.cs",
-              "RelativeToolTip": "c018_nested_loop.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "VT04_UF1_PAC7_Estructuras_repeticion_y_salto2.cs",
+              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT04_UF1_PAC7_Estructuras_repeticion_y_salto2.cs",
+              "RelativeDocumentMoniker": "VT04_UF1_PAC7_Estructuras_repeticion_y_salto2.cs",
+              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT04_UF1_PAC7_Estructuras_repeticion_y_salto2.cs",
+              "RelativeToolTip": "VT04_UF1_PAC7_Estructuras_repeticion_y_salto2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T16:08:09.84Z",
+              "WhenOpened": "2024-04-14T11:36:08.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "c019_enum_foreach_arraybool.cs",
-              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c019_enum_foreach_arraybool.cs",
-              "RelativeDocumentMoniker": "c019_enum_foreach_arraybool.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c019_enum_foreach_arraybool.cs",
-              "RelativeToolTip": "c019_enum_foreach_arraybool.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAADAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T16:07:28.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "VT4.cs",
-              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT4.cs",
-              "RelativeDocumentMoniker": "VT4.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT4.cs",
-              "RelativeToolTip": "VT4.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T10:57:38.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "VT4_UF1_PAC5_Arrays.cs",
-              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT4_UF1_PAC5_Arrays.cs",
-              "RelativeDocumentMoniker": "VT4_UF1_PAC5_Arrays.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT4_UF1_PAC5_Arrays.cs",
-              "RelativeToolTip": "VT4_UF1_PAC5_Arrays.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T10:57:19.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "c012_random_array.cs",
-              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c012_random_array.cs",
-              "RelativeDocumentMoniker": "c012_random_array.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c012_random_array.cs",
-              "RelativeToolTip": "c012_random_array.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T09:33:47.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "c021_for_while_doWhile.cs",
-              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c021_for_while_doWhile.cs",
-              "RelativeDocumentMoniker": "c021_for_while_doWhile.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c021_for_while_doWhile.cs",
-              "RelativeToolTip": "c021_for_while_doWhile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T16:09:36.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "000_test.cs",
               "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\000_test.cs",
               "RelativeDocumentMoniker": "000_test.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\000_test.cs",
-              "RelativeToolTip": "000_test.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\000_test.cs*",
+              "RelativeToolTip": "000_test.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T09:17:12.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "c015_break_vs_continue.cs",
-              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c015_break_vs_continue.cs",
-              "RelativeDocumentMoniker": "c015_break_vs_continue.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c015_break_vs_continue.cs",
-              "RelativeToolTip": "c015_break_vs_continue.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T12:18:02.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "c020_static.cs",
-              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c020_static.cs",
-              "RelativeDocumentMoniker": "c020_static.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\c020_static.cs",
-              "RelativeToolTip": "c020_static.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T16:07:12.931Z",
+              "WhenOpened": "2024-04-12T06:26:03.808Z",
               "EditorCaption": ""
             }
           ]

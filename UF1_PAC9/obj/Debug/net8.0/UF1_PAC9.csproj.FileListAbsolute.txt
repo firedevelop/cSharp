@@ -1,0 +1,15 @@
+C:\Users\it77\Documents\GitHub\cSharp\UF1_PAC9\obj\Debug\net8.0\UF1_PAC9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it77\Documents\GitHub\cSharp\UF1_PAC9\obj\Debug\net8.0\UF1_PAC9.AssemblyInfoInputs.cache
+C:\Users\it77\Documents\GitHub\cSharp\UF1_PAC9\obj\Debug\net8.0\UF1_PAC9.AssemblyInfo.cs
+C:\Users\it77\Documents\GitHub\cSharp\UF1_PAC9\obj\Debug\net8.0\UF1_PAC9.csproj.CoreCompileInputs.cache
+C:\Users\it77\Documents\GitHub\cSharp\UF1_PAC9\obj\Debug\net8.0\UF1_PAC9.sourcelink.json
+C:\Users\it77\Documents\GitHub\cSharp\UF1_PAC9\bin\Debug\net8.0\UF1_PAC9.exe
+C:\Users\it77\Documents\GitHub\cSharp\UF1_PAC9\bin\Debug\net8.0\UF1_PAC9.deps.json
+C:\Users\it77\Documents\GitHub\cSharp\UF1_PAC9\bin\Debug\net8.0\UF1_PAC9.runtimeconfig.json
+C:\Users\it77\Documents\GitHub\cSharp\UF1_PAC9\bin\Debug\net8.0\UF1_PAC9.dll
+C:\Users\it77\Documents\GitHub\cSharp\UF1_PAC9\bin\Debug\net8.0\UF1_PAC9.pdb
+C:\Users\it77\Documents\GitHub\cSharp\UF1_PAC9\obj\Debug\net8.0\UF1_PAC9.dll
+C:\Users\it77\Documents\GitHub\cSharp\UF1_PAC9\obj\Debug\net8.0\refint\UF1_PAC9.dll
+C:\Users\it77\Documents\GitHub\cSharp\UF1_PAC9\obj\Debug\net8.0\UF1_PAC9.pdb
+C:\Users\it77\Documents\GitHub\cSharp\UF1_PAC9\obj\Debug\net8.0\UF1_PAC9.genruntimeconfig.cache
+C:\Users\it77\Documents\GitHub\cSharp\UF1_PAC9\obj\Debug\net8.0\ref\UF1_PAC9.dll
