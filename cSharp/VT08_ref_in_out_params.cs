@@ -1,10 +1,9 @@
 using System;
-
-namespace M03_VT08_Práctica
+namespace cSharp
 {
-    internal class Program
+    public class VT08_ref_in_out_params
     {
-        static void Main(string[] args)
+        public static void Print()
         {
             int numero1 = 5;
             int numero2 = 4;

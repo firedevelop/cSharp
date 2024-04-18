@@ -5,25 +5,29 @@ namespace cSharp
     {
         public static void Print()
         {
-            int minVal = 10;
-            int maxVal;
+            // num = (365*2=730) + (30*2=60) + (7*2=14) + (3days)
+            int num = 807; 
+            int year = 365;
+            int month = 30;
+            int week = 7;
 
-            AnalyzeNumbers(in minVal, out maxVal, 20, 35, 8);
+            int yearNum = num / year;
+            int yearRest = num % year;
 
-            Console.WriteLine("Minimum value: " + minVal);
-            Console.WriteLine("Maximum value: " + maxVal);
-        }
-        public static void AnalyzeNumbers(in int minValue, out int maxValue, params int[] numbers)
-        {
-            maxValue = minValue;
+            int monthNum = yearRest / month;
+            int monthRest = yearRest % month;
 
-            foreach (int number in numbers)
-            {
-                if (number > maxValue)
-                {
-                    maxValue = number;
-                }
-            }
+            int weekNum = monthRest / week;
+            int weekRest = monthRest % week;
+
+            
+
+
+            Console.WriteLine( yearNum + " years");
+            Console.WriteLine(monthNum + " months");
+            Console.WriteLine(weekNum + " weeks");
+            Console.WriteLine(weekRest + " da");
+
         }
     }
 }
