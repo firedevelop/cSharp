@@ -1,10 +1,9 @@
 using System;
-
-namespace M03_VT08_Práctica
+namespace cSharp
 {
-    internal class Program
+    internal class VT08_Convert_Time
     {
-        static void Main(string[] args)
+        public static void Print()
         {
             string opcion = "";
 
