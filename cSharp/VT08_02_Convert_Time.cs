@@ -1,7 +1,7 @@
 using System;
 namespace cSharp
 {
-    internal class VT08_Convert_Time
+    internal class VT08_02_Convert_Time
     {
         public static void Print()
         {
@@ -63,5 +63,30 @@ namespace cSharp
 
             Console.WriteLine("El resultado es " + ((in_horas * 3600) + (in_minutos * 60) + (in_segundos)) + " segundos.");
         }
+
+        /* input seconds and get how many hours, minuts, seconds.
+         // 3721 = 3 hour(60*60*3=10800) + 5 minuts (60*5=300) + 7 second
+        int secondsInput = 11107;
+
+        int seconds = 60;
+        int minuts = 60;
+        int minutsCalc;
+        int hoursCalc = 0;
+        int minutsRest = 0;
+
+        int secondsRest = 0;
+
+        minutsCalc = secondsInput / minuts;
+            if (minutsCalc >= minuts)
+            {
+                hoursCalc = minutsCalc / minuts; 
+                minutsRest = minutsCalc % minuts;
+                secondsRest = secondsInput - ((hoursCalc* minuts * seconds) + (minutsRest* seconds));
+            }
+
+    Console.WriteLine("hours: " + hoursCalc);
+            Console.WriteLine("minutsRest: " + minutsRest);
+            Console.WriteLine("seconds: " + secondsRest);
+        */
     }
 }

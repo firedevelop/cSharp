@@ -1,7 +1,7 @@
 ﻿using System;
 namespace cSharp
 {
-    public class Test
+    public class VT09_Recursive_Factorial
     {
         /*
         Calcular el factorial de un número usando un método no recursivo y recursivo:
@@ -25,7 +25,7 @@ namespace cSharp
             total = FactorialRecursive(num);
             Console.WriteLine("Factorial Recursive: " + total);
 
-            
+
         }
         public static int FactorialRecursive(int num)
         {
@@ -38,7 +38,7 @@ namespace cSharp
                 return num * FactorialRecursive(num - 1);
             }
         }
-        
-        
+
+
     }
 }
