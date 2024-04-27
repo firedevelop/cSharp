@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:000_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\vt09_recursive_factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:vt09_recursive_factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\vt09_recursive_functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:vt09_recursive_functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\vt09_files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|solutionrelative:vt09_files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{088ADE39-790D-4220-9155-4F8FAFA1FE1F}|cSharp.csproj|c:\\users\\it77\\documents\\github\\csharp\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 81,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -39,34 +35,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T07:57:31.667Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VT09_Recursive_Factorial.cs",
-              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT09_Recursive_Factorial.cs",
-              "RelativeDocumentMoniker": "VT09_Recursive_Factorial.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT09_Recursive_Factorial.cs",
-              "RelativeToolTip": "VT09_Recursive_Factorial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T16:17:58.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VT09_Recursive_Functions.cs",
-              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT09_Recursive_Functions.cs",
-              "RelativeDocumentMoniker": "VT09_Recursive_Functions.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT09_Recursive_Functions.cs",
-              "RelativeToolTip": "VT09_Recursive_Functions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T16:17:15.099Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -86,11 +55,24 @@
               "Title": "000_test.cs",
               "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\000_test.cs",
               "RelativeDocumentMoniker": "000_test.cs",
-              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\000_test.cs*",
-              "RelativeToolTip": "000_test.cs*",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAxwBAAAAAAAAAA",
+              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\000_test.cs",
+              "RelativeToolTip": "000_test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T15:34:22.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VT09_Files.cs",
+              "DocumentMoniker": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT09_Files.cs",
+              "RelativeDocumentMoniker": "VT09_Files.cs",
+              "ToolTip": "C:\\Users\\it77\\Documents\\GitHub\\cSharp\\cSharp\\VT09_Files.cs",
+              "RelativeToolTip": "VT09_Files.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwCYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:15:02.609Z",
               "EditorCaption": ""
             }
           ]
