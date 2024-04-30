@@ -3,7 +3,7 @@ namespace cSharp
 {
     internal class VT09_Files
     {
-        static void Main(string[] args)
+        public static void Print()
         {
             //-- Resolución ejercicio 1
             string usuario = "";
