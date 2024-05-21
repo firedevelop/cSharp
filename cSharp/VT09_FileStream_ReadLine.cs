@@ -2,7 +2,7 @@
 using System.IO;
 namespace cSharp
 {
-    public class Test
+    public class VT09_FileStream_ReadLine
     {
         public static void Print()
         {

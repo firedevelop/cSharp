@@ -5,7 +5,11 @@ namespace cSharp
     {
         static void Main(string[] args)
         {
-            Test.Print();
+            // Test.Print();
+            VT10_05_Examen.Print();
+
+
+
         }
     }
 }
