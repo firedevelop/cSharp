@@ -5,6 +5,24 @@ namespace cSharp
     {
             public static void Print()
             {
+
+            // Tipo String Trim. Quita todos los caracteres de espacio en blanco del principio y el final de la cadena actual.
+
+            // Tipo String Contains. Devuelve un valor que indica si una subcadenaespecificada aparece dentro de esta cadena.
+            String text = "Hello world!";
+            bool textCheck = text.Contains("!");
+            Console.WriteLine(textCheck);
+
+            // Tipo String Substring. Recupera una subcadenade la instancia.
+            string textGet = text.Substring(1, 4);
+            Console.WriteLine(textGet); // ello
+            // Tipo String ToLower. Devuelve una copia de la cadena convertida en minúsculas.
+
+            // Tipo String ToUpper. Devuelve una copia de la cadena convertida en Mayúsculas.
+
+
+
+
             // Truncate() elimina parte decimal
             double numTruncate = 32.5487;
             Console.WriteLine(Math.Truncate(numTruncate)); // 32

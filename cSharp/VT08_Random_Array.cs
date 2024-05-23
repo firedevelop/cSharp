@@ -1,10 +1,9 @@
 using System;
-
-namespace M03_VT08_Práctica
+namespace cSharp
 {
-    internal class Program
+    public class VT08_Random_Array
     {
-        static void Main(string[] args)
+        public static void Print()
         {
 
             int[] matriz = new int[10];

@@ -1,7 +1,7 @@
 using System;
 namespace cSharp
 {
-    public class VT06_Days
+    public class VT06_Calculate_Days
     {
         public static void Print()
         {
